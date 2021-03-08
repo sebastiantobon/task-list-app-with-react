@@ -1,7 +1,7 @@
 <h1 align="center">task list App</h1>
 
 <p align="center">
-  <img src="list.gif">
+  <img src="./list.gif">
 </p>
 <br/>
 # Getting Started with Create React App
