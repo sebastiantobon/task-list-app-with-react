@@ -1,9 +1,9 @@
 <h1 align="center">task list App</h1>
 
 <p align="center">
-  <img src="list.git">
+  <img src="list.gif">
 </p>
-
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
