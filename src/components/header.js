@@ -13,12 +13,12 @@ const Header = ({mostrarCompletadas, cambiarMostrar}) => {
             <h1 className="header-title">Lista de tareas</h1>
             {mostrarCompletadas ?   
                     <button onClick={() => toogleCompletadas()}  className="header-btn"> 
-                        No mostrat completadas
+                        No mostrar completadas
                         <FontAwesomeIcon icon={faEyeSlash}  className="header-icon-btn" />
                     </button>
                     :
                     <button onClick={() => toogleCompletadas()}  className="header-btn"> 
-                         Mostrat completadas
+                         Mostrar completadas
                         <FontAwesomeIcon icon={faEye} className="header-icon-btn" />
                     </button>
         }
